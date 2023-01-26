@@ -1,0 +1,14 @@
+input:
+A B 2
+B D 2
+A C 3
+C D 6
+end
+
+
+C D 3
+B D 1
+A C 2
+A B 0
+end
+
